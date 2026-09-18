@@ -5,3 +5,6 @@ __pycache__/
 .vscode/ 
 *.pt 
 *.pth 
+"08-email_classification_svm.csv" 
+"08-seismic_activity_svm.csv" 
+"*.csv" 
